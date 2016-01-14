@@ -10,7 +10,7 @@ http://www.tshare.cc/61.html    //参考教程
 测试版地址：https://codeload.github.com/XX-net/XX-Net/zip/2.1.2
 
 2.解压：
-  unzip XX-Net-2.0.5.zip
+  unzip XX-Net -2.0.5.zip  // 库里有已经解压的XX-Net 文件
 
 3.前期工作：
   导入证书，安装libnss3-tools
