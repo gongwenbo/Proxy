@@ -1,0 +1,37 @@
+www.lai18.com/content/1622154.html    // 设置教程
+http://www.tshare.cc/61.html    //参考教程
+
+也可以看如下教程：
+
+1. 下载：
+
+稳定版地址：https://codeload.github.com/XX-net/XX-Net/zip/2.0.5
+
+测试版地址：https://codeload.github.com/XX-net/XX-Net/zip/2.1.2
+
+2.解压：
+  unzip XX-Net-2.0.5.zip
+
+3.前期工作：
+  导入证书，安装libnss3-tools
+  sudo apt-get install libnss3-tools 
+
+  sudo apt-get install python-gtk2 
+
+4 安装启动：
+ cd到XX-Net解压的目录地址，第一次启动, 请用sudo ./start.sh, 以安装CA证书
+
+  sudo ./start.sh
+   
+5 打开浏览器部署服务器：
+   	
+   http://127.0.0.1:8085/?module=gae_proxy&menu=status  
+   
+   打开“部署服务器”填写appengine账号，谷歌账号，以及专用密码（不是谷歌账号密码，）
+   https://console.developers.google.com/project   //查看appengine ID账号；
+6 设置代理：
+   
+   利用chrome+switchomega搭配，打开switchomega会出现 127.0.0.1:8085 选择即可。
+   
+    
+   

@@ -1,0 +1,5 @@
+(1)sudo apt-get install python-pip
+(2)sudo pip install shadowsocks    //安装shadowsocks
+(3)sslocal -s server_ip -p server_port  -l 1080 -k password -t 600 -m aes-256-cfb    //启动文件
+
+ xx-net 专用密码：obhqvknxogoqxmbt
