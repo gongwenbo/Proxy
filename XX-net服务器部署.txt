@@ -29,6 +29,12 @@ http://www.tshare.cc/61.html    //参考教程
    
    打开“部署服务器”填写appengine账号，谷歌账号，以及专用密码（不是谷歌账号密码，）
    https://console.developers.google.com/project   //查看appengine ID账号；
+ 5-1 :
+
+
+	google id :help-1180|help1-1180|help2-1180|help3-1180|help4-1180	
+        专用密码：obhqvknxogoqxmbt
+ 
 6 设置代理：
    
    利用chrome+switchomega搭配，打开switchomega会出现 127.0.0.1:8085 选择即可。
